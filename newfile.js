@@ -1,1 +1,8 @@
-console.log('Hello, Tanya');
+hello = {
+    tanya: function () {
+        console.log('Hello, Tanya');
+    },
+    ulya: function () {
+        console.log('Hello, Ulya');
+    },
+}
